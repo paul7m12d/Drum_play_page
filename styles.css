@@ -1,0 +1,63 @@
+
+#title{
+  font-family: 'Arvo',cursive;
+  font-family: 'Arvo',cursive;
+  color: white;
+  text-shadow: 4px 0 #D22779;
+  border-color: #D22779 ;
+  padding-bottom: 1.5rem;
+  font-size: 6rem;
+}
+body{
+  text-align: center;
+  background-color: #313552;
+}
+
+.kick-bass{
+  background-image: url('./images/kick.png');
+
+}
+
+.snare{
+  background-image: url('./images/snare.png');
+}
+
+.tom-1{
+  background-image: url("./images/tom1.png");
+}
+.tom-2{
+    background-image: url("./images/tom3.png");
+}
+.tom-3{
+    background-image: url("./images/tom3.png");
+}
+.tom-4{
+    background-image: url("./images/tom4.png");
+}
+
+.crash{
+  background-image: url('./images/crash.png');
+}
+.drum{
+  width: 140px;
+  height: 140px;
+  border-radius: 19px;
+  margin: 1rem;
+  border-style: solid;
+  border-color: #495371;
+  border-width: 10px;
+  color: #D22779;
+  font-family: 'Arvo',cursive;
+  font-size: 3.5rem;
+  font-weight: 900;
+  text-align: center;
+  line-height: 2.5;
+
+}
+
+.footer{
+  font-family: 'Arvo',cursive;
+  font-size: 1rem;
+  padding: 5rem;
+  color: white;
+}
